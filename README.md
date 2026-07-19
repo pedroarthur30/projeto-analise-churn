@@ -24,7 +24,7 @@ O resultado final é a extração da **Razão de Chances (Odds Ratio)**, permiti
 O código foi construído abandonando o uso de notebooks monolíticos para criar um pipeline executável via terminal.
 
 ```text
-projeto_analisechurn/
+projeto-analise-churn/
 ├── outputs/                 # Gráficos gerados automaticamente pela análise
 ├── src/                     # Código-fonte principal
 │   ├── __init__.py
